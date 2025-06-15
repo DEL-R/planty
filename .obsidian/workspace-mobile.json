@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "c9ac6c00b4195915",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e519ea601e7e34c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b934dfc2d8dd622f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83fcfd30f14f46f3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2f63a915966b3cf7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorateur de fichiers"
+        }
+      },
+      {
+        "id": "6f296fff1b560bc3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Rechercher"
+        }
+      },
+      {
+        "id": "6feee6297868b218",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Mots-clés"
+        }
+      },
+      {
+        "id": "856095259c8b42c0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Signet"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bd54a585b83db568",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0328e0dfe5738fe5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00_Index.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Rétroliens"
+        }
+      },
+      {
+        "id": "b8145b261dcc7246",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00_Index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Liens sortants"
+        }
+      },
+      {
+        "id": "30fc657e6539d1a0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "00_Index.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Plan"
+        }
+      },
+      {
+        "id": "49497d1df8e7adf2",
+        "type": "leaf",
+        "state": {
+          "type": "smart-connections-view",
+          "state": {},
+          "icon": "smart-connections",
+          "title": "Smart Connections"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "b934dfc2d8dd622f",
+  "lastOpenFiles": [
+    "00_Index.md"
+  ]
+}
