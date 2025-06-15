@@ -31,6 +31,8 @@
 .smart-env/**/logs/
 .smart-env/**/.backup/
 .smart-env/**/.cache/
+.smart-env/agents/*
+!.smart-env/agents/.keep
 
 #######################################
 # 📱 Système Android / fichiers éditeurs

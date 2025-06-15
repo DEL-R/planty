@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e519ea601e7e34c",
+        "id": "70e63557aec3fc5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b934dfc2d8dd622f",
+            "id": "8c006390b1d80baa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00_Index"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -155,7 +151,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
@@ -166,8 +162,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b934dfc2d8dd622f",
+  "active": "8c006390b1d80baa",
   "lastOpenFiles": [
+    "GHOST_READER_PLANTY.agent.meta.md",
     "00_Index.md"
   ]
 }
