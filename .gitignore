@@ -1,0 +1,27 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/**/node_modules/
+.obsidian/plugins/**/dist/
+.obsidian/plugins/**/.git/
+
+# Smart-env fichiers sensibles ou générés
+.smart-env/*.ajson
+.smart-env/*.bak
+.smart-env/temp/
+.smart-env/debug/
+
+# Fichiers système Android / éditeurs
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.swp
+*.tmp
+*.bak
+*~
+
+# fichiers journaliers (optionnel si confidentiel)
+#01_Journal/*.md
+
+# fichiers météo auto-générés (si tu veux les garder hors repo)
+#04_Meteo/*.md
