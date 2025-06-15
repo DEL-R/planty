@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70e63557aec3fc5d",
+        "id": "80a773bfb07d87b0",
         "type": "tabs",
         "children": [
           {
-            "id": "8c006390b1d80baa",
+            "id": "6b1a39e95c47c61f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8c006390b1d80baa",
+  "active": "6b1a39e95c47c61f",
   "lastOpenFiles": [
+    "repo_Planty_meta.md",
+    "repo_Planty_Carte.md",
+    "meta",
     "GHOST_READER_PLANTY.agent.meta.md",
     "00_Index.md"
   ]
