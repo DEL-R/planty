@@ -1,27 +1,81 @@
-# Obsidian
+﻿#######################################
+# 🔒 Obsidian – fichiers locaux ou à exclure
+#######################################
+
+# Fichiers de session & état visuel (pas utiles pour sync entre appareils)
 .obsidian/workspace*
 .obsidian/cache
+.obsidian/appearance.json
+.obsidian/workspace-mobile.json
+
+# Répertoires potentiellement lourds ou inutiles
 .obsidian/plugins/**/node_modules/
 .obsidian/plugins/**/dist/
 .obsidian/plugins/**/.git/
 
-# Smart-env fichiers sensibles ou g�n�r�s
+# (Optionnel) ignorer tous les plugins sauf la config
+# .obsidian/plugins/
+
+# Si tu veux exclure tout .obsidian sauf les fichiers de config utiles :
+# !.obsidian/community-plugins.json
+# !.obsidian/core-plugins.json
+
+#######################################
+# 🌿 Smart-env – environnement et fichiers générés
+#######################################
+
 .smart-env/*.ajson
 .smart-env/*.bak
 .smart-env/temp/
 .smart-env/debug/
+.smart-env/**/logs/
+.smart-env/**/.backup/
+.smart-env/**/.cache/
 
-# Fichiers syst�me Android / �diteurs
+#######################################
+# 📱 Système Android / fichiers éditeurs
+#######################################
+
+# macOS
 .DS_Store
+
+# Windows
 Thumbs.db
 ehthumbs.db
+
+# Éditeurs & fichiers temporaires
 *.swp
 *.tmp
 *.bak
 *~
+*.log
+*.orig
 
-# fichiers journaliers (optionnel si confidentiel)
-#01_Journal/*.md
+#######################################
+# 📆 Données optionnelles selon usage
+#######################################
 
-# fichiers m�t�o auto-g�n�r�s (si tu veux les garder hors repo)
-#04_Meteo/*.md
+# 📔 Journal personnel (si tu veux le garder local)
+# (Décommenter pour exclure)
+01_Journal/*.md
+
+# 🌤️ Fichiers météo auto-générés
+# (Décommenter si générés automatiquement ou peu utiles)
+04_Meteo/*.md
+
+#######################################
+# 🔧 Autres exclusions personnalisées
+#######################################
+
+# Archives ZIP, backups manuels
+*.zip
+*.tar
+*.gz
+
+# Dossiers cache personnalisés
+.cache/
+.cache_*/
+
+# Notes de debug personnelles
+*.debug.md
+*.private.md
