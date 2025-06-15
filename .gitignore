@@ -59,7 +59,7 @@ ehthumbs.db
 
 # 📔 Journal personnel (si tu veux le garder local)
 # (Décommenter pour exclure)
-01_Journal/*.md
+# 01_Journal/*.md
 
 # 🌤️ Fichiers météo auto-générés
 # (Décommenter si générés automatiquement ou peu utiles)
