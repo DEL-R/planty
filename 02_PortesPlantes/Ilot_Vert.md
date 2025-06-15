@@ -9,18 +9,22 @@ Lieu protégé mais soumis au **plein soleil** & à **l’eau stagnante** après
 
 ---
 
-## 🌱 Composition actuelle *(mise à jour 2025-06-14)*
+## 🌱 Composition actuelle *(mise à jour 2025-06-15)*
 
 - **4 pots de menthe**  
-  ↳ [[Menthes_Clan_d_Aveyron]]  
+  ↳ [[Menthes_Clan_d_Aveyron]]
 - **1 radis** (partagé avec une menthe, dans le pot **blanc**)  
-  ↳ [[Radis_freres_du_Frigo]]  
+  ↳ [[Radis_freres_du_Frigo]]
 - **3 mini rosiers**  
-  ↳ [[Mini_Rosiers_de_lIlot_Vert]]  
-- **1 pétunia** (pot gris, fleurs violettes)  
-  ↳ [[Petunias_Clan_des_Trois]]
+  ↳ [[Mini_Rosiers_de_lIlot_Vert]]
+<!--
+- ~~**1 pétunia** (pot gris, fleurs violettes)~~ → **Déplacé**
+-->
 
-🧾 Total : **8 pots**
+❗ **Mise à jour** : le **pétunia** en pot gris (fleurs violettes) a été **déplacé** le 15 juin pour rejoindre les 2 autres suspensions sur la [[Face_Fenetre_Salon]]  
+↳ Voir : [[Petunias_Clan_des_Trois]]
+
+🧾 Total : **7 pots** actuellement sur la tablette
 
 ---
 
@@ -53,7 +57,14 @@ Lieu protégé mais soumis au **plein soleil** & à **l’eau stagnante** après
   - Feuilles terminales retombantes → à surveiller
 - ☀️ Exposition intense, sol en cours de séchage post-pluie
 
-📝 Voir [[01_Journal/2025-06-14_Journal]] pour tous les soins détaillés
+### 🗓️ 2025-06-15 — fin de journée
+
+- 🔄 Déplacement du pétunia violet suspendu vers la [[Face_Fenetre_Salon]]
+- 💧 Arrosage modéré de l’ensemble (≈ 1,5 L réparti)
+- ✅ Égouttage bien géré, mais stagnation temporaire toujours présente
+- 🔍 Aucun soin requis sur les menthes ni radis ce jour
+
+📝 Voir [[01_Journal/2025-06-15_Journal]] pour la séquence complète
 
 ---
 
@@ -63,4 +74,5 @@ Lieu protégé mais soumis au **plein soleil** & à **l’eau stagnante** après
 - [[Menthes_Clan_d_Aveyron]]
 - [[Mini_Rosiers_de_lIlot_Vert]]
 - [[Petunias_Clan_des_Trois]]
+- [[Face_Fenetre_Salon]]
 - [[00_Index]]

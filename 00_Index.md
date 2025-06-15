@@ -26,13 +26,14 @@ SORT date ASC
 - [[03_Plantes/Petunias_Clan_des_Trois]]
 - [[03_Plantes/La_Mysterieuse_du_Pot_Terre]]
 - [[03_Plantes/Mini_Rosiers_de_lIlot_Vert]]
+- [[03_Plantes/Petunias_Clan_des_Trois]]
 
 ---
 
 ## 🪴 Zones du balcon
 
 - [[02_PortesPlantes/Ilot_Vert]]
-- [[02_PortesPlantes/Coin_Détente]]
+- [[Coin_Detente]]
 - [[02_PortesPlantes/Face_Fenetre_Salon]]
 
 ---

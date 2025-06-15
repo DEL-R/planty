@@ -1,50 +1,84 @@
 ---
-# Fiche Plante — Modèle
+# Fiche Plante — Individuelle
 nom: Pétunias – Clan des Trois  
-zone: Deux suspendus face à la fenêtre du salon + un pot gris sur l’îlot vert  
+zone: Face_Fenetre_Salon + anciennement Ilot_Vert  
 origine: Achat groupé, printemps 2025  
 achat_ou_semis: 2025‑05–??  
 toxique_chat: non ✅  
 ---
 
 ## 🌱 Description
-- Aspect général : feuillage vert velouté, tiges souples, fleurs en trompette colorées
-- Variété :
-  - 🌌 Pétunia 'Night Sky' (violet tacheté, suspendu)
-  - 💗 Pétunia rose vif (suspendu)
-  - 😴 Pétunia fané (pot gris, en pause florale)
-- Historique : achetés ensemble, installés en pleine saison de floraison ; deux très fleuris, un en récupération
+
+- **Aspect général** : feuillage vert velouté, tiges retombantes souples, floraison en trompettes colorées
+- **Variétés** :
+  - 🌌 *Pétunia 'Night Sky'* — violet tacheté (suspension rose galaxie)
+  - 💗 Pétunia rose vif (suspension violet galaxie)
+  - 😴 Pétunia en repos (pot gris déplacé de l’[[Ilot_Vert]]) — feuillage sain, floraison temporairement absente
+- **Historique** : achetés ensemble en pleine saison, chaque spécimen placé dans un pot suspendu ou posé  
+  ➤ **Déplacement du pot gris vers la [[Face_Fenetre_Salon]] le 2025‑06‑15**
+
+---
 
 ## 🪴 Contenant
-- Deux pots suspendus identiques (balcon face à la fenêtre du salon)
-- Un pot gris sur l’îlot vert (posé)
-- Substrat : terreau léger pour fleurs annuelles, bon drainage
+
+| Pot         | Type         | Emplacement actuel              |
+|-------------|--------------|---------------------------------|
+| Gris        | Posé         | **→ déplacé** vers Face Fenêtre |
+| Rose galaxie | Suspension  | Face Fenêtre (gauche)          |
+| Violet galaxie | Suspension | Face Fenêtre (droite)          |
+
+- **Substrat** : terreau léger pour fleurs annuelles, bon drainage  
+- **Drainage** : excellent pour les suspensions ; sol du pot gris légèrement plus lourd, surveiller la reprise
+
+---
 
 ## 🧑‍🌾 Soins
+
 | Besoin         | Détail |
 |----------------|--------|
-| Arrosage       | Fréquent en été (1/jour si soleil) – éviter mouillage des feuilles |
-| Soleil         | Fort ensoleillement apprécié |
-| Rempotage      | Pas nécessaire si pot adapté et drainage bon |
-| Engrais        | 1x/sem engrais fleurs liquide (riche en P) |
-| Particularités | Supprimer fleurs fanées régulièrement (stimule floraison) |
-| Cohabitation   | Aucune – pots individuels
+| 💧 Arrosage     | Quotidien en cas de chaleur (éviter feuilles) — vigilance pour les suspensions |
+| ☀️ Soleil       | Forte exposition recherchée |
+| 🪴 Rempotage     | Pas nécessaire si volume et drainage corrects |
+| 💊 Engrais       | 1×/semaine (liquide pour fleurs, riche en P) |
+| ✂️ Taille        | Supprimer fleurs fanées régulièrement pour relancer la floraison |
+| 📏 Particularités | Cycle de floraison parfois irrégulier : acceptation des phases de repos |
+
+---
 
 ## 🐾 Compatibilité animale
-- Chat : non toxique ✅
-- Autres : non concerné
+
+- **Chat** : non toxique ✅
+- **Autres** : non concerné
+
+---
 
 ## 💚 Lien affectif / symbolique
+
 - Élément décoratif fort du balcon
-- Variation des couleurs = jeu visuel & diversité
+- Trio expressif, port souple et fleuri
+- Évoque un **jeu de constellation** entre ciel et fleurs
+
+---
 
 ## 🔍 Observations & suivi
-- 2025‑06‑07 — deux très fleuris, un fané mais en feuillage sain
-- 2025‑06‑10 — entamer cures d’engrais + suppression manuelle des fanées
+
+| Date       | Événement |
+|------------|-----------|
+| 2025‑06‑07 | Deux très fleuris, un fané mais feuillage sain |
+| 2025‑06‑10 | Cure d’engrais commencée + suppression manuelle des fleurs fanées |
+| 2025‑06‑15 | **Déplacement du pot gris** vers la [[Face_Fenetre_Salon]] ; arrosage équilibré des 3 pots ; floraison active des suspensions |
+
+---
 
 ## 🖼️ Photos
-- 📸 2025‑06‑07 : vue suspendus côté baie vitrée + pot gris au sol sur l’îlot
+
+- 📸 2025‑06‑07 : vue d’ensemble des 3 pots
+- 📸 2025‑06‑15 : suspensions en fleur + pot gris déplacé
+
+---
 
 ## 📚 Références
-- Pétunia hybrida – annuelle non rustique, floraison continue de mai à octobre
-- Fleurs comestibles (pétales uniquement)
+
+- *Petunia hybrida* — annuelle non rustique
+- Floraison continue de mai à octobre
+- Pétales comestibles (à vérifier selon traitement et exposition)
