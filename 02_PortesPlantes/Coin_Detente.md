@@ -1,4 +1,4 @@
-# 🪑 Coin Détente – Zone du balcon
+# 🪑 Coin Détente – Zone du balcon #zone_CoinDetente
 
 > Espace semi-ombragé aménagé pour la détente humaine et végétale  
 > 📍 Localisation : côté droit du balcon, près de la rambarde + mur arrière  
@@ -8,14 +8,14 @@
 
 ## 🌿 Composition *(mise à jour 2025-06-15)*
 
-| Plante / groupe                         | Pot / contenant            | Emplacement                  |
-|----------------------------------------|----------------------------|------------------------------|
-| **2 mini rosiers**                     | Pots terre cuite           | Posés sur 2 parpaings bleus, le long du mur |
-| **1 mini rosier**                      | Pot terre cuite            | Sur la table ronde, à côté de la jardinière blanche |
-| **Menthe**                             | Pot blanc céramique        | Sur la table ronde          |
-| **Radis (pot suspendu)**               | Pot suspendu métallique    | Rambarde, côté droit        |
-| **Jardinière blanche**                 | Bac rectangulaire plastique | Sur la table ronde          |
-| **Plante vivace grignotée (par Souricette 🐭)** | Pot noir profond (gros volume) | Surélevé sur parpaings plats (non en contact direct avec le sol) |
+| Plante / groupe                                              | Pot / contenant            | Emplacement                                   |
+|-------------------------------------------------------------|----------------------------|-----------------------------------------------|
+| **2 mini rosiers** #plante_Rosier                           | Pots terre cuite           | Posés sur 2 parpaings bleus, le long du mur   |
+| **1 mini rosier** #plante_Rosier                            | Pot terre cuite            | Sur la table ronde, à côté de la jardinière   |
+| **Menthe** #plante_Menthe                                   | Pot blanc céramique        | Sur la table ronde                            |
+| **Radis** (pot suspendu) #plante_Radis                      | Pot suspendu métallique    | Rambarde, côté droit                          |
+| **Jardinière blanche** (plantes annuelles mixtes)           | Bac rectangulaire plastique| Sur la table ronde                            |
+| **Plante vivace grignotée** #plante_Vivace #Souricette 🐭   | Pot noir profond           | Surélevé sur parpaings plats                  |
 
 ---
 
@@ -23,7 +23,7 @@
 
 - Luminosité variable : soleil direct en fin d’après-midi
 - Zone partiellement abritée du vent
-- Support : dalles + structure surélevée (parpaings, table, rebord rambarde)
+- Support : dalles + structures surélevées (parpaings, table, rambarde)
 - Humidité : drainage variable selon le contenant
 
 ---
@@ -32,31 +32,30 @@
 
 ### 🗓️ 2025-06-15 — soirée
 
-- 💧 Arrosage complet de l’ensemble des pots (voir [[01_Journal/2025-06-15_Journal]])
-- 💦 **Arrosage prolongé du gros pot noir** pour permettre une pénétration lente et complète du substrat
-- ✂️ **Taille et nettoyage effectués** sur les 2 rosiers posés sur parpaings bleus :
-  - Suppression du bois mort, ouverture au centre, nettoyage autour du collet
+- 💧 Arrosage complet de l’ensemble des pots (voir [[01_Journal/2025-06-15_Journal]]) #arrosage  
+- 💦 Arrosage prolongé du gros pot noir pour permettre une pénétration lente du substrat  
+- ✂️ Taille et nettoyage effectués sur les **2 rosiers** posés sur parpaings bleus #taille  
+  - Bois mort supprimé, collet nettoyé  
 - 📌 Le mini rosier sur table n’a **pas encore été taillé**
 
 ---
 
-## 🐭 Comportement récurrent : Souricette
+## 🐭 Comportement récurrent : Souricette #Souricette
 
-> Souricette est connue pour **grignoter les feuilles** de la plante vivace en pot noir  
-> Cette **habitude établie** est observée depuis plusieurs semaines.  
-> Les dégâts restent localisés aux feuilles tendres mais **n'affectent pas la santé globale** de la plante.
+> Souricette grignote régulièrement les feuilles de la plante vivace en pot noir.  
+> Habitude établie depuis plusieurs semaines ; dégâts limités aux feuilles tendres.
 
 ---
 
 ## 📊 État général
 
 | Élément                     | État                   | Commentaire |
-|----------------------------|------------------------|-------------|
-| Rosiers (x3)               | 🌱 En reprise active   | Feuillage neuf, cicatrisation en cours |
-| Menthe (pot blanc)         | 🟡 Fragile             | Petites pousses, besoin de surveillance |
-| Jardinière blanche         | 🟢 Vigoureuse          | Feuillage dense, port droit |
-| Pot suspendu (radis)       | 🟢 Bien repris         | Bonne tenue générale |
-| Pot noir surélevé          | 🟢 Sain malgré grignotage | Substrat aéré, bonne reprise, feuilles jeunes |
+|-----------------------------|------------------------|-------------|
+| Rosiers (x3)               | 🌱 Reprise active      | Feuillage neuf, cicatrisation en cours |
+| Menthe (pot blanc)         | 🟡 Fragile            | Petites pousses, à surveiller |
+| Jardinière blanche         | 🟢 Vigoureuse         | Feuillage dense, port droit |
+| Pot suspendu (radis)       | 🟢 Bien repris        | Bonne tenue générale |
+| Pot noir surélevé          | 🟢 Sain malgré grignotage | Substrat aéré, feuilles jeunes |
 
 ---
 
